@@ -36,7 +36,7 @@ Una aplicación interactiva para organizar sorteos de amigo secreto. Los usuario
 
  ## 🌐 Demo en línea
 
-🔗 [Ver demo en línea](https://pameta1.github.io/amigo-secreto-final/)
+🔗 [Ver demo en línea](https://pameta1.github.io/versi-n-final-amigo-secreto/)
  
 ---
 
